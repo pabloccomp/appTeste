@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>Pods-OneSignalNotificationServiceExtension.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-appTeste-tvOS.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-appTeste-tvOSTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-appTeste.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-appTesteTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>4C91F21CD6F5C81D14D962A1E78C8445</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>618AB8A4B8193191AEBA555D74DE9F62</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8026C9D9CDCF7CCABB2BD87BA8366BD7</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8EDFBD249A4028BA476415DB495F79BA</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>A3E099B1CF655EFFE8966C207CCEA083</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>
